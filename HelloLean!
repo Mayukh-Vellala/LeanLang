@@ -1,0 +1,10 @@
+
+-- My first Lean 4 program!
+
+def double (n : Nat) : Nat :=
+  n + n
+
+#eval double 5
+
+theorem double_five : double 5 = 10 := by
+  rfl
