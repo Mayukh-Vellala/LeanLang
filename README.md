@@ -1,2 +1,2 @@
 # LeanLang
-Learning the Lean Theorem Prover
+Learning Lean, Mathematical Proof Verfier.
